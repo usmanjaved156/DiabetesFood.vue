@@ -1,8 +1,3 @@
-Running the application locally for development
-Clone the repository and install dependencies
-
-> git clone https://github.com/travishorn/diabetes-food-database.git
-> cd diabetes-food-database
 > npm install
 Start the backend lambda service and serve the client
 
