@@ -1,4 +1,4 @@
-### Running the application locally for development
+### Running the application locally for development by Usman
 
 Clone the repository and install dependencies
 
